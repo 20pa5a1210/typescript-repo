@@ -25,4 +25,3 @@ newUser:false
 
 obj.darkmode = true
 obj.newUser =  false
-
